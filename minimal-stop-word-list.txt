@@ -18,6 +18,7 @@ that
 the
 their
 this
+
 #coordinating conjunctions
 and
 but
@@ -26,6 +27,7 @@ yet
 for
 nor
 so
+
 #preposition
  as
 aboard

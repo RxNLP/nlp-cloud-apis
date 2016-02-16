@@ -12,7 +12,7 @@ This is a simple Java Wrapper for [RxNLP's Text Similarity API](http://www.rxnlp
 
 Note that using plain vanilla HTTP Request is much faster than using the Unirest library. The X-Mashape-Key is the API key needed to access the API endpoint. You will need to register with Mashape and subscribe to the [Text Mining and NLP API](https://market.mashape.com/rxnlp/text-mining-and-nlp) in order to obtain the API Key.
 
-	```java
+```java
 
 		//endpoint
 		targetUrl = new URL("https://rxnlp-core.p.mashape.com/computeSimilarity");
@@ -23,14 +23,14 @@ Note that using plain vanilla HTTP Request is much faster than using the Unirest
 		httpConnection.setRequestMethod("POST");
 		httpConnection.setRequestProperty("Content-Type", "application/json");	
 		httpConnection.setRequestProperty("X-Mashape-Key", "<GET_YOUR_MASHAPE_KEY>");
-	```
+```
 
 
 ### Send JSON request
 
 Here we create a  JSON request based on two strings for similarity comparison and then we send it to the server. Note that the strings can be pretty long as the request does not exceed 1MB. For details on the parameters, [refer to this documentation](http://www.rxnlp.com/api-reference/text-similarity-api-reference/#request)
 
-	```java
+```java
 		String str1="This is the first string.  It can be quite long.";
 		String str2="This is the second string.  It can be quite long.";
 		
@@ -43,7 +43,7 @@ Here we create a  JSON request based on two strings for similarity comparison an
 		OutputStream outputStream = httpConnection.getOutputStream();
 		outputStream.write(input.getBytes());
 		outputStream.flush();```
-	```
+```
 
 
 

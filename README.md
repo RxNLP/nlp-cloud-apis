@@ -5,8 +5,10 @@ RxNLP's Text Mining and NLP APIs provide access to some basic and advanced text 
 
 
 ##Table of Contents
-[HTML2Text](#html2text)
-[Sentence Clustering](#sentence-clustering)
+- [HTML2Text](#html2text)
+- [Text Similarity](#text-similarity)
+- [Sentence Clustering](#sentence-clustering)
+- [N-Gram and Word Counting](#N-Gram-and-Word-Counting)
 
 ##HTML2Text
 

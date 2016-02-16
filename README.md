@@ -1,16 +1,16 @@
 
 # Text Mining and NLP APIs
 
-RxNLP's Text Mining and NLP APIs provide access to some basic and advanced text analytics functionality over the cloud. The APIs are meant for both commercial as well as research use. We have recently been getting a lot of interest from University users. The APIs are tracked via Mashape, so you will have to register for a <b>[Mashape account](http://www.mashape.com)</b> and then subscribe to the [API plan](https://market.mashape.com/rxnlp/text-mining-and-nlp/pricing) that works for you. For limited or trial use, you should select the 'basic' plan with free per day requests. Below you will find a list of our current APIs and links to documentation.
+RxNLP's Text Mining and NLP APIs provide access to some basic and advanced text analytics functionality over the cloud. The APIs are meant for both commercial as well as research use. We currently have a mix of academic and industry users. To use RxNLP's APIs and the wrappers for the APIs, you will have to register for a <b>[Mashape account](http://www.mashape.com)</b> and then subscribe to the [API plan](https://market.mashape.com/rxnlp/text-mining-and-nlp/pricing) that works for you. For limited or trial use, you should select the 'basic' plan with free per day requests. Below you will find a list of our current APIs and links to documentation.
 
 
 
 
 ##Table of Contents
-- [HTML2Text](#html2text)
-- [Text Similarity](#text-similarity)
-- [Sentence Clustering](#sentence-clustering)
-- [N-Gram and Word Counting](#n-gram-and-word-counting)
+- [HTML2Text API](#html2text)
+- [Text Similarity API](#text-similarity)
+- [Sentence Clustering API](#sentence-clustering)
+- [N-Gram and Word Counting API](#n-gram-and-word-counting)
 
 
 

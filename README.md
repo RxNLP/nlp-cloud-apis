@@ -43,8 +43,10 @@ The [Sentence Clustering](https://market.mashape.com/rxnlp/text-mining-and-nlp/#
 
 - [ [Sentence Clustering API Documentation](http://www.rxnlp.com/api-reference/cluster-sentences-api-reference/) ]
 - [ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
+
 <hr />
-# Finding the X-Mashape Key
+
+#Finding the X-Mashape Key
 
 ![Where to find your X-Mashape-Key](http://www.rxnlp.com/wp-content/uploads/2016/02/X-Mashape-Key.png "Where to find your X-Mashape-Key")
 

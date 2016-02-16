@@ -12,34 +12,34 @@ Note that using plain vanilla HTTP Request is much faster than using the Unirest
 
 	```java
 
-	//endpoint
-	targetUrl = new URL("https://rxnlp-core.p.mashape.com/computeSimilarity");
+		//endpoint
+		targetUrl = new URL("https://rxnlp-core.p.mashape.com/computeSimilarity");
 	
-	//First set the headers
-	HttpURLConnection httpConnection = (HttpURLConnection) targetUrl.openConnection();
-	httpConnection.setDoOutput(true);
-	httpConnection.setRequestMethod("POST");
-	httpConnection.setRequestProperty("Content-Type", "application/json");	
-	httpConnection.setRequestProperty("X-Mashape-Key", "<GET_YOUR_MASHAPE_KEY>");
+		//First set the headers
+		HttpURLConnection httpConnection = (HttpURLConnection) targetUrl.openConnection();
+		httpConnection.setDoOutput(true);
+		httpConnection.setRequestMethod("POST");
+		httpConnection.setRequestProperty("Content-Type", "application/json");	
+		httpConnection.setRequestProperty("X-Mashape-Key", "<GET_YOUR_MASHAPE_KEY>");
 	```
 ### Send JSON request
 
 Here we create a  JSON request based on two strings for similarity comparison and then we send it to the server. Note that the strings can be pretty long as the request does not exceed 1MB. For details on the parameters, [refer to this documentation](http://www.rxnlp.com/api-reference/text-similarity-api-reference/#request)
 
-```java
-			String str1="This is the first string.  It can be quite long.";
-			String str2="This is the second string.  It can be quite long.";
-			
-			//Then set input
-			String input = "{\"text1\":\""+str1
-							 +"\",\"text2\":\""+str2
-							 +"\",\"clean\":\"true\"}"; 
+	```java
+		String str1="This is the first string.  It can be quite long.";
+		String str2="This is the second string.  It can be quite long.";
+		
+		//Then set input
+		String input = "{\"text1\":\""+str1
+			 +"\",\"text2\":\""+str2
+			 +"\",\"clean\":\"true\"}"; 
 
-			//Next, process output
-			OutputStream outputStream = httpConnection.getOutputStream();
-			outputStream.write(input.getBytes());
-			outputStream.flush();```
-```
+		//Next, process output
+		OutputStream outputStream = httpConnection.getOutputStream();
+		outputStream.write(input.getBytes());
+		outputStream.flush();```
+	```
 
 ### Read JSON response from server
 

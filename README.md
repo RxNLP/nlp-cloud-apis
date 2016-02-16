@@ -26,7 +26,7 @@ The [HTML2Text](https://market.mashape.com/rxnlp/text-mining-and-nlp#1-html2text
 The [N-Gram and Word Counting](https://market.mashape.com/rxnlp/text-mining-and-nlp/#3-ngramcounter) endpoint generates word and n-gram counts in any language. The words or n-grams and its frequency are returned in descending order of frequency. 
 
 [ [N-Gram Counter API Documentation](http://www.rxnlp.com/api-reference/n-gram-and-word-counter-api-reference/) ]
-[ [Test on Mashape] (https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
+[ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
 
 
 ##Text Similarity 
@@ -34,14 +34,15 @@ The [Text Similarity](https://market.mashape.com/rxnlp/text-mining-and-nlp/#2-te
 
 [ [Text Similarity API Documentation](http://www.rxnlp.com/api-reference/text-similarity-api-reference/) ]
 [ [Simple Java Wrapper for Text Similarity](https://github.com/RxNLP/text-mining-and-nlp/tree/master/java) ]
-[ [Test on Mashape] (https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
+[ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
 
+<hr />
 ##Sentence Clustering 
 
 The [Sentence Clustering](https://market.mashape.com/rxnlp/text-mining-and-nlp/#cluster-chunk-of-text) endpoint clusters texts such as Tweets, Customer Support Tickets, News Articles, Surveys, User Reviews and others into logical sentence groups. You get the clusters, cluster score and cluster labels. 
 
 [ [Sentence Clustering API Documentation](http://www.rxnlp.com/api-reference/cluster-sentences-api-reference/) ]
-[ [Test on Mashape] (https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
+[ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
 
 # Finding the X-Mashape Key
 

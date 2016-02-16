@@ -1,16 +1,18 @@
 
-## Text Mining and NLP APIs
+# Text Mining and NLP APIs
 
-RxNLP's Text Mining and NLP APIs provide access to some basic and advanced text analytics functionality over the cloud. The APIs are meant for both commercial and research use. We have recently been getting a lot of interest from University users. The APIs are tracked via Mashape, so you will have to register for a <b>[Mashape account](http://www.mashape.com)</b> and then subscribe to the [API plan](https://market.mashape.com/rxnlp/text-mining-and-nlp/pricing) that works for you. For limited or trial use, you should select the 'basic' plan with free per day requests. Below you will find a list of our current APIs and links to documentation.
+RxNLP's Text Mining and NLP APIs provide access to some basic and advanced text analytics functionality over the cloud. The APIs are meant for both commercial as well as research use. We have recently been getting a lot of interest from University users. The APIs are tracked via Mashape, so you will have to register for a <b>[Mashape account](http://www.mashape.com)</b> and then subscribe to the [API plan](https://market.mashape.com/rxnlp/text-mining-and-nlp/pricing) that works for you. For limited or trial use, you should select the 'basic' plan with free per day requests. Below you will find a list of our current APIs and links to documentation.
 
-##HTML2Text API
+[Sentence Clustering](#Sentence Clustering)
+
+##HTML2Text
 
 The [HTML2Text](https://market.mashape.com/rxnlp/text-mining-and-nlp#1-html2text) endpoint extracts only the body text of any HTML page or extracts the body text directly from a URL.
 
 [ [Test on Mashape] (https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
 
 
-##N-Gram and Word Counting API
+##N-Gram and Word Counting
 
 The [N-Gram and Word Counting](https://market.mashape.com/rxnlp/text-mining-and-nlp/#3-ngramcounter) endpoint generates word and n-gram counts in any language. The words or n-grams and its frequency are returned in descending order of frequency. 
 
@@ -18,7 +20,7 @@ The [N-Gram and Word Counting](https://market.mashape.com/rxnlp/text-mining-and-
 [ [Test on Mashape] (https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
 
 
-##Text Similarity API
+##Text Similarity 
 The [Text Similarity](https://market.mashape.com/rxnlp/text-mining-and-nlp/#2-textsimilarity) endpoint computes similarity between two pieces of texts (long or short) using well known measures such as Jaccard, Dice and Cosine. 
 
 [ [Text Similarity API Documentation](http://www.rxnlp.com/api-reference/text-similarity-api-reference/) ]
@@ -26,7 +28,7 @@ The [Text Similarity](https://market.mashape.com/rxnlp/text-mining-and-nlp/#2-te
 [ [Test on Mashape] (https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
 
 
-##Sentence Clustering API
+##Sentence Clustering 
 
 The [Sentence Clustering](https://market.mashape.com/rxnlp/text-mining-and-nlp/#cluster-chunk-of-text) endpoint clusters texts such as Tweets, Customer Support Tickets, News Articles, Surveys, User Reviews and others into logical sentence groups. You get the clusters, cluster score and cluster labels. 
 

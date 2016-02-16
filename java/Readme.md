@@ -4,7 +4,11 @@
 This is a simple Java Wrapper for [RxNLP's Text Similarity API](http://www.rxnlp.com/api-reference/text-similarity-api-reference/). 
 
 
-# What is Text Similarity Simple Wrapper?
+## Explanation of Code
+
+### Making connection to the API
+
+Note that using plain vanilla 
 
 ```java
 targetUrl = new URL("https://rxnlp-core.p.mashape.com/computeSimilarity");

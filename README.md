@@ -18,23 +18,23 @@ RxNLP's Text Mining and NLP APIs provide access to some basic and advanced text 
 
 The [HTML2Text](https://market.mashape.com/rxnlp/text-mining-and-nlp#1-html2text) endpoint extracts only the body text of any HTML page or extracts the body text directly from a URL.
 
-[ [Test on Mashape] (https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
+- [ [Test on Mashape] (https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
 
-
+<hr />
 ##N-Gram and Word Counting
 
 The [N-Gram and Word Counting](https://market.mashape.com/rxnlp/text-mining-and-nlp/#3-ngramcounter) endpoint generates word and n-gram counts in any language. The words or n-grams and its frequency are returned in descending order of frequency. 
 
-[ [N-Gram Counter API Documentation](http://www.rxnlp.com/api-reference/n-gram-and-word-counter-api-reference/) ]
-[ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
+- [ [N-Gram Counter API Documentation](http://www.rxnlp.com/api-reference/n-gram-and-word-counter-api-reference/) ]
+- [ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
 
-
+<hr />
 ##Text Similarity 
 The [Text Similarity](https://market.mashape.com/rxnlp/text-mining-and-nlp/#2-textsimilarity) endpoint computes similarity between two pieces of texts (long or short) using well known measures such as Jaccard, Dice and Cosine. 
 
-[ [Text Similarity API Documentation](http://www.rxnlp.com/api-reference/text-similarity-api-reference/) ]
-[ [Simple Java Wrapper for Text Similarity](https://github.com/RxNLP/text-mining-and-nlp/tree/master/java) ]
-[ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
+- [ [Text Similarity API Documentation](http://www.rxnlp.com/api-reference/text-similarity-api-reference/) ]
+- [ [Simple Java Wrapper for Text Similarity](https://github.com/RxNLP/text-mining-and-nlp/tree/master/java) ]
+- [ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
 
 <hr />
 ##Sentence Clustering 
@@ -43,7 +43,7 @@ The [Sentence Clustering](https://market.mashape.com/rxnlp/text-mining-and-nlp/#
 
 [ [Sentence Clustering API Documentation](http://www.rxnlp.com/api-reference/cluster-sentences-api-reference/) ]
 [ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
-
+<hr />
 # Finding the X-Mashape Key
 
 ![Where to find your X-Mashape-Key](http://www.rxnlp.com/wp-content/uploads/2016/02/X-Mashape-Key.png "Where to find your X-Mashape-Key")

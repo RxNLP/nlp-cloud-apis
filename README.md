@@ -10,11 +10,15 @@ The [HTML2Text](https://market.mashape.com/rxnlp/text-mining-and-nlp#1-html2text
 ###N-Gram and Word Counting API
 
 The [N-Gram and Word Counting](https://market.mashape.com/rxnlp/text-mining-and-nlp/#3-ngramcounter) endpoint generates word and n-gram counts in any language. The words or n-grams and its frequency are returned in descending order of frequency. 
-[API Documentation](http://www.rxnlp.com/api-reference/n-gram-and-word-counter-api-reference/)
+
+[[API Documentation](http://www.rxnlp.com/api-reference/n-gram-and-word-counter-api-reference/)]
 
 ###Text Similarity API
 The [Text Similarity](https://market.mashape.com/rxnlp/text-mining-and-nlp/#2-textsimilarity) endpoint computes similarity between two pieces of texts (long or short) using well known measures such as Jaccard, Dice and Cosine. 
-[API Documentation](http://www.rxnlp.com/api-reference/text-similarity-api-reference/)[Simple Java Wrapper](https://github.com/RxNLP/text-mining-and-nlp/tree/master/java)
+
+[[API Documentation](http://www.rxnlp.com/api-reference/text-similarity-api-reference/)]
+
+[[Simple Java Wrapper](https://github.com/RxNLP/text-mining-and-nlp/tree/master/java)]
 
 ###Sentence Clustering API
 

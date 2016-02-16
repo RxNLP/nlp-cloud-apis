@@ -1,7 +1,7 @@
 
 # Text Mining and NLP APIs
 
-RxNLP's Text Mining and NLP APIs provide access to some basic and advanced text analytics functionality over the cloud. The APIs are meant for both commercial as well as research use. We currently have a mix of academic and industry users. To use RxNLP's APIs and the wrappers for the APIs, you will have to register for a <b>[Mashape account](http://www.mashape.com)</b> and then subscribe to the [API plan](https://market.mashape.com/rxnlp/text-mining-and-nlp/pricing) that works for you. For limited or trial use, you should select the 'basic' plan with free per day requests. Below you will find a list of our current APIs and links to documentation.
+RxNLP's Text Mining and NLP APIs provide access to some basic and advanced text analytics functionality over the cloud. The APIs are meant for both commercial as well as research use. We currently have a mix of academic and industry users. To use RxNLP's APIs and the wrappers for the APIs, you will have to register for a <b>[Mashape account](http://www.mashape.com)</b> and then subscribe to the [API plan](https://market.mashape.com/rxnlp/text-mining-and-nlp/pricing) that works for you. For limited or trial use, you should select the 'basic' plan with free per day requests. The <b>X-Mashape-Key</b> key that you see on mashape will be your API Key. Below you will find a list of our current APIs and links to documentation.
 
 
 
@@ -36,11 +36,14 @@ The [Text Similarity](https://market.mashape.com/rxnlp/text-mining-and-nlp/#2-te
 [ [Simple Java Wrapper for Text Similarity](https://github.com/RxNLP/text-mining-and-nlp/tree/master/java) ]
 [ [Test on Mashape] (https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
 
-
 ##Sentence Clustering 
 
 The [Sentence Clustering](https://market.mashape.com/rxnlp/text-mining-and-nlp/#cluster-chunk-of-text) endpoint clusters texts such as Tweets, Customer Support Tickets, News Articles, Surveys, User Reviews and others into logical sentence groups. You get the clusters, cluster score and cluster labels. 
 
 [ [Sentence Clustering API Documentation](http://www.rxnlp.com/api-reference/cluster-sentences-api-reference/) ]
 [ [Test on Mashape] (https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
+
+# Finding the X-Mashape Key
+
+![Where to find your X-Mashape-Key](http://www.rxnlp.com/wp-content/uploads/2016/02/X-Mashape-Key.png "Where to find your X-Mashape-Key")
 

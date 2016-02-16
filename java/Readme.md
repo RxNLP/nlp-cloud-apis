@@ -8,7 +8,7 @@ This is a simple Java Wrapper for [RxNLP's Text Similarity API](http://www.rxnlp
 
 ### Making connection to the API
 
-Note that using plain vanilla HTTP Request is much faster than using the Unirest library. The X-Mashape-Key is the API key that you would need to obtain from Mashape in order to use the API. 
+Note that using plain vanilla HTTP Request is much faster than using the Unirest library. The X-Mashape-Key is the API key needed to access the API endpoint. You will need to register with Mashape and subscribe to the [Text Mining and NLP API](https://market.mashape.com/rxnlp/text-mining-and-nlp) in order to obtain the API Key.
 
 ```java
 targetUrl = new URL("https://rxnlp-core.p.mashape.com/computeSimilarity");

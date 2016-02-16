@@ -41,8 +41,8 @@ The [Text Similarity](https://market.mashape.com/rxnlp/text-mining-and-nlp/#2-te
 
 The [Sentence Clustering](https://market.mashape.com/rxnlp/text-mining-and-nlp/#cluster-chunk-of-text) endpoint clusters texts such as Tweets, Customer Support Tickets, News Articles, Surveys, User Reviews and others into logical sentence groups. You get the clusters, cluster score and cluster labels. 
 
-[ [Sentence Clustering API Documentation](http://www.rxnlp.com/api-reference/cluster-sentences-api-reference/) ]
-[ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
+- [ [Sentence Clustering API Documentation](http://www.rxnlp.com/api-reference/cluster-sentences-api-reference/) ]
+- [ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
 <hr />
 # Finding the X-Mashape Key
 

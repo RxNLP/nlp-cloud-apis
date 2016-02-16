@@ -53,7 +53,7 @@ BufferedReader responseBuffer = new BufferedReader(new InputStreamReader((httpCo
 			}
 			
 ```			
-### Example Input
+### Example JSON Request
 
 ```json
  {
@@ -63,7 +63,7 @@ BufferedReader responseBuffer = new BufferedReader(new InputStreamReader((httpCo
  }
 ``` 
 
-### Example Input
+### Example JSON Response
 ```json
 {
  "cosine": "0.750",

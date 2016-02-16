@@ -56,8 +56,11 @@ BufferedReader responseBuffer = new BufferedReader(new InputStreamReader((httpCo
 ### Example Input
 
 ```json
- "text1": "iphone 4s black new",
- "text2": "iphone 4s black old"
+ {
+ "text1": "iphone 4s black new", #this is text1
+ "text2": "iphone 4s black old", # this is text 2
+ "clean":"true" #clean the text or not?
+ }
 ``` 
 
 ### Example Input

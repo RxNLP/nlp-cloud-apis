@@ -1,4 +1,6 @@
-# What is Text Similarity API?
+# RxNLP Text Similarity API REST Reference
+
+## What is Text Similarity API?
 
 [<img src="https://d1g84eaw0qjo7s.cloudfront.net/images/badges/badge-icon-light-9e8eba63.png" alt="Mashape" width="143" height="38" />][1]
 

@@ -8,8 +8,10 @@
   The Text Similarity API computes surface similarity between two pieces of text (long or short) using well known measures namely Jaccard, Dice and Cosine. Determining similarity between texts is crucial to many applications such as <em>clustering, duplicate removal, merging similar topics or themes, text retrieval and etc</em>. Let's say we have the following two product listings on eBay:
 </p>
 
-<pre style="text-align: justify;">"text1": "iphone 4s black new",
- "text2": "iphone 4s black old"</pre>
+<pre style="text-align: justify;">
+"text1": "iphone 4s black new",
+"text2": "iphone 4s black old"
+</pre>
 
 <p style="text-align: justify;">
   How can you tell that these two listings are almost the same? You can use text similarity measures for this. The results from the Text Similarity API shows how close these two texts are using different measures:

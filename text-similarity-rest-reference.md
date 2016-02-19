@@ -232,6 +232,8 @@ Requests can be sent in any language as long as it is formatted according to the
 *   Remove determiners (e.g. the, an, a) [<a href="http://dictionary.cambridge.org/us/grammar/british-grammar/determiners-the-my-some-this" target="_blank">see list</a>]
 *   Remove stop words [<a href="https://github.com/RxNLP/text-mining/blob/master/terrier-stop-word-list.txt" target="_blank">full stop word list</a>] [<a href="https://github.com/RxNLP/text-mining/blob/master/minimal-stop-word-list.txt" target="_blank">minimal stop list</a>] [<a href="http://www.ranks.nl/stopwords" target="_blank">stop words in other languages</a>]
 
+* * *
+
 # Languages Supported
 
 Text Similarity is <span style="text-decoration: underline; color: #ff0000;">language-neutral</span> and would thus work for all languages.

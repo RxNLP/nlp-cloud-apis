@@ -144,7 +144,7 @@ The TextSimilarity endpoint accepts a **JSON request via POST.** It takes in 3 
   - plain text, (e.g. the cow jumps over the moon) 
   - text with POS annotations (e.g. *the/dt cow/nn jumps/vb*) 
   - manipulated texts such as n-grams (e.g. *thiscat catis iscute*). 
-  - Since this is a json request, your text has to be properly escaped and encoded in UTF-8
+- Since this is a json request, your text has to be properly escaped and encoded in UTF-8
   
 Requests can be sent in any language as long as it is formatted according to the expected JSON format. There is a library called the [unirest][2] library that handles http request and response in several languages including Java, Python, Ruby, Node.js, PHP and more. Here is an example, using the Java Unirest library:
 

@@ -8,7 +8,7 @@ RxNLP's Text Mining and NLP APIs provide access to some basic and advanced text 
 
 ##Table of Contents
 - [HTML2Text API](#html2text)
-- [Topics Extraction API](#html2text)
+- [Topics Extraction API](#topics-extraction)
 - [Text Similarity API](#text-similarity)
 - [Sentence Clustering API](#sentence-clustering)
 - [N-Gram and Word Counting API](#n-gram-and-word-counting)

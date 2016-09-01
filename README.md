@@ -12,7 +12,7 @@ RxNLP's Text Mining and NLP APIs provide access to some basic and advanced text 
 - [Text Similarity API](#text-similarity)
 - [Sentence Clustering API](#sentence-clustering)
 - [N-Gram and Word Counting API](#n-gram-and-word-counting)
-- [Opinosis Review Summarization]()
+- [Opinosis Review Summarization](#opinosis-summarization)
 - [Finding your X-Mashape Key](#finding-the-x-mashape-key)
 
 
@@ -61,7 +61,8 @@ The [Sentence Clustering](https://market.mashape.com/rxnlp/text-mining-and-nlp/#
 
 The [Opinosis Summarization](https://market.mashape.com/rxnlp/textual-opinion-summarizer) endpoint generates short summaries of opinions and is designed to work for texts such as user reviews.  
 - [ [Test on Mashape](https://market.mashape.com/rxnlp/textual-opinion-summarizer) ]
-- [ [Sample Wrapper Code](https://github.com/Flutifioc/Automatic-Summarization/blob/ad42d7838c3c7dd6bb2b8e547c18ad13d717cf9f/Automatic_Summarization_Maven/src/main/java/AbstractionSummarizer/AbstractionSummarizer.java)
+- [ [Sample Wrapper Code](https://github.com/Flutifioc/Automatic-Summarization/blob/ad42d7838c3c7dd6bb2b8e547c18ad13d717cf9f/Automatic_Summarization_Maven/src/main/java/AbstractionSummarizer/AbstractionSummarizer.java) ]
+- [ [Related Paper](https://www.aclweb.org/anthology/C/C10/C10-1039.pdf) ]
 
 <hr />
 

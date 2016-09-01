@@ -61,7 +61,8 @@ The [Sentence Clustering](https://market.mashape.com/rxnlp/text-mining-and-nlp/#
 
 The [Opinosis Summarization](https://market.mashape.com/rxnlp/textual-opinion-summarizer) endpoint generates short summaries of opinions and is designed to work for texts such as user reviews.  
 - [ [Test on Mashape](https://market.mashape.com/rxnlp/textual-opinion-summarizer) ]
-- [ [Sample Wrapper Code](https://github.com/Flutifioc/Automatic-Summarization/blob/ad42d7838c3c7dd6bb2b8e547c18ad13d717cf9f/Automatic_Summarization_Maven/src/main/java/AbstractionSummarizer/AbstractionSummarizer.java) ]
+- [ [Sample Wrapper Code in Java](https://github.com/Flutifioc/Automatic-Summarization/blob/ad42d7838c3c7dd6bb2b8e547c18ad13d717cf9f/Automatic_Summarization_Maven/src/main/java/AbstractionSummarizer/AbstractionSummarizer.java) ]
+- [ [Sample Wrapper Code in Python](https://github.com/suhashm/Meta-Crawler/blob/7c265b9b5ec50c1b8c73a9ccf1cdc403067b2436/Backend/SentimentAnalysis.py) ]
 - [ [Related Paper](https://www.aclweb.org/anthology/C/C10/C10-1039.pdf) ]
 
 <hr />

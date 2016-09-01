@@ -25,7 +25,7 @@ The [HTML2Text](https://market.mashape.com/rxnlp/text-mining-and-nlp#1-html2text
 
 ##Topics Extraction
 
-The [Topics Extraction](https://market.mashape.com/rxnlp/text-mining-and-nlp) endpoint helps you find key topics when you have lots of text to deal with. It returns topics ranked by importance and also provides snippets containing the topics. 
+The [Topics Extraction](https://market.mashape.com/rxnlp/text-mining-and-nlp#extract-topics-themes) endpoint helps you find key topics when you have lots of text to deal with. It returns topics ranked by importance and also provides snippets containing the topics. 
 - [ [Topics Extraction Documentation](http://www.rxnlp.com/api-reference/topics-and-themes-api-reference/) ]
 - [ [Test on Mashape] (https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
  

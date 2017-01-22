@@ -54,6 +54,7 @@ The [Sentence Clustering](https://market.mashape.com/rxnlp/text-mining-and-nlp/#
 
 - [ [Sentence Clustering API Documentation](http://www.rxnlp.com/api-reference/cluster-sentences-api-reference/) ]
 - [ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
+- [ [Wrapper Code in Python](https://github.com/RxNLP/pyrxnlp/blob/master/client/ClusterSentences.py) ]
 
 <hr />
 

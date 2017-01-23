@@ -15,6 +15,10 @@ RxNLP's Text Mining and NLP APIs provide access to some basic and advanced text 
 - [Opinosis Review Summarization](#opinosis-summarization)
 - [Finding your X-Mashape Key](#finding-the-x-mashape-key)
 
+##Quick Links
+- [Client Wrapper Code in Python](https://github.com/RxNLP/pyrxnlp)
+- [API Related Questions](http://www.rxnlp.com/ask-question/)
+
 
 ##HTML2Text
 

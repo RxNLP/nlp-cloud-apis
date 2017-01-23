@@ -45,6 +45,7 @@ The [Text Similarity](https://market.mashape.com/rxnlp/text-mining-and-nlp/#2-te
 
 - [ [Text Similarity API Documentation](http://www.rxnlp.com/api-reference/text-similarity-api-reference/) ]
 - [ [Simple Java Wrapper for Text Similarity](https://github.com/RxNLP/text-mining-and-nlp/tree/master/java) ]
+- [ [Python Wrapper for Text Similarity](https://github.com/RxNLP/pyrxnlp/tree/master/client) ]
 - [ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
 
 <hr />

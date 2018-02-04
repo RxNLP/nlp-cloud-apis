@@ -6,7 +6,7 @@ RxNLP's Text Mining and NLP APIs provide access to some basic and advanced text 
 
 
 
-##Table of Contents
+## Table of Contents
 - [HTML2Text API](#html2text)
 - [Topics Extraction API](#topics-extraction)
 - [Text Similarity API](#text-similarity)
@@ -15,12 +15,12 @@ RxNLP's Text Mining and NLP APIs provide access to some basic and advanced text 
 - [Opinosis Review Summarization](#opinosis-summarization)
 - [Finding your X-Mashape Key](#finding-the-x-mashape-key)
 
-##Quick Links
+## Quick Links
 - [Client Wrapper Code in Python](https://github.com/RxNLP/pyrxnlp)
 - [API Related Questions](http://www.rxnlp.com/ask-question/)
 
 
-##HTML2Text
+## HTML2Text
 
 The [HTML2Text](https://market.mashape.com/rxnlp/text-mining-and-nlp#1-html2text) endpoint extracts only the body text of any HTML page or extracts the body text directly from a URL.
 - [ [HTML2Text Documentation](http://www.rxnlp.com/api-reference/html2text-api/) ]
@@ -28,7 +28,7 @@ The [HTML2Text](https://market.mashape.com/rxnlp/text-mining-and-nlp#1-html2text
 
 <hr />
 
-##Topics Extraction
+## Topics Extraction
 
 The [Topics Extraction](https://market.mashape.com/rxnlp/text-mining-and-nlp#extract-topics-themes) endpoint helps you find key topics when you have lots of text to deal with. It returns topics ranked by importance and also provides snippets containing the topics. 
 - [ [Topics Extraction Documentation](http://www.rxnlp.com/api-reference/topics-and-themes-api-reference/) ]
@@ -36,7 +36,7 @@ The [Topics Extraction](https://market.mashape.com/rxnlp/text-mining-and-nlp#ext
  
 <hr />
 
-##N-Gram and Word Counting
+## N-Gram and Word Counting
 
 The [N-Gram and Word Counting](https://market.mashape.com/rxnlp/text-mining-and-nlp/#3-ngramcounter) endpoint generates word and n-gram counts in any language. The words or n-grams and its frequency are returned in descending order of frequency. 
 
@@ -44,7 +44,7 @@ The [N-Gram and Word Counting](https://market.mashape.com/rxnlp/text-mining-and-
 - [ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
 
 <hr />
-##Text Similarity 
+## Text Similarity 
 The [Text Similarity](https://market.mashape.com/rxnlp/text-mining-and-nlp/#2-textsimilarity) endpoint computes similarity between two pieces of texts (long or short) using well known measures such as Jaccard, Dice and Cosine. 
 
 - [ [Text Similarity API Documentation](http://www.rxnlp.com/api-reference/text-similarity-api-reference/) ]
@@ -53,7 +53,7 @@ The [Text Similarity](https://market.mashape.com/rxnlp/text-mining-and-nlp/#2-te
 - [ [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) ]
 
 <hr />
-##Sentence Clustering 
+## Sentence Clustering 
 
 The [Sentence Clustering](https://market.mashape.com/rxnlp/text-mining-and-nlp/#cluster-chunk-of-text) endpoint clusters texts such as Tweets, Customer Support Tickets, News Articles, Surveys, User Reviews and others into logical sentence groups. You get the clusters, cluster score and cluster labels. 
 
@@ -63,7 +63,7 @@ The [Sentence Clustering](https://market.mashape.com/rxnlp/text-mining-and-nlp/#
 
 <hr />
 
-##Opinosis Summarization
+## Opinosis Summarization
 
 The [Opinosis Summarization](https://market.mashape.com/rxnlp/textual-opinion-summarizer) endpoint generates short summaries of opinions and is designed to work for texts such as user reviews.  
 - [ [Test on Mashape](https://market.mashape.com/rxnlp/textual-opinion-summarizer) ]
@@ -74,7 +74,7 @@ The [Opinosis Summarization](https://market.mashape.com/rxnlp/textual-opinion-su
 <hr />
 
 
-#Finding the X-Mashape Key
+# Finding the X-Mashape Key
 
 ![Where to find your X-Mashape-Key](http://www.rxnlp.com/wp-content/uploads/2016/02/X-Mashape-Key.png "Where to find your X-Mashape-Key")
 

@@ -43,22 +43,24 @@ The [N-Gram and Word Counting](https://market.mashape.com/rxnlp/text-mining-and-
 - [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/)
 
 <hr />
+
 ## Text Similarity 
 The [Text Similarity](https://market.mashape.com/rxnlp/text-mining-and-nlp/#2-textsimilarity) endpoint computes similarity between two pieces of texts (long or short) using well known measures such as Jaccard, Dice and Cosine. 
 
 - [Text Similarity API Documentation](http://www.rxnlp.com/api-reference/text-similarity-api-reference/) 
 - [Simple Java Wrapper for Text Similarity](https://github.com/RxNLP/text-mining-and-nlp/tree/master/java) 
-- [Python Wrapper for Text Similarity](https://github.com/RxNLP/pyrxnlp/tree/master/client) 
+- [Python Wrapper for Text Similarity](https://github.com/RxNLP/pyrxnlp/) 
 - [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) 
 
 <hr />
+
 ## Sentence Clustering 
 
 The [Sentence Clustering](https://market.mashape.com/rxnlp/text-mining-and-nlp/#cluster-chunk-of-text) endpoint clusters texts such as Tweets, Customer Support Tickets, News Articles, Surveys, User Reviews and others into logical sentence groups. You get the clusters, cluster score and cluster labels. 
 
 - [Sentence Clustering API Documentation](http://www.rxnlp.com/api-reference/cluster-sentences-api-reference/) 
 - [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) 
-- [Wrapper Code in Python](https://github.com/RxNLP/pyrxnlp/tree/master/client) 
+- [Wrapper Code in Python](https://github.com/RxNLP/pyrxnlp/) 
 
 <hr />
 
@@ -66,8 +68,6 @@ The [Sentence Clustering](https://market.mashape.com/rxnlp/text-mining-and-nlp/#
 
 The [Opinosis Summarization](https://market.mashape.com/rxnlp/text-mining-and-nlp/) endpoint generates short summaries of opinions and is designed to work for texts such as user reviews.  
 - [Test on Mashape](https://market.mashape.com/rxnlp/text-mining-and-nlp/) 
-- [Sample Wrapper Code in Java](https://github.com/Flutifioc/Automatic-Summarization/blob/ad42d7838c3c7dd6bb2b8e547c18ad13d717cf9f/Automatic_Summarization_Maven/src/main/java/AbstractionSummarizer/AbstractionSummarizer.java) 
-- [Sample Code Utilizing Opinosis Summarization API in Python](https://github.com/suhashm/Meta-Crawler/blob/7c265b9b5ec50c1b8c73a9ccf1cdc403067b2436/Backend/SentimentAnalysis.py
 - [Related Paper](https://www.aclweb.org/anthology/C/C10/C10-1039.pdf)
 
 <hr />

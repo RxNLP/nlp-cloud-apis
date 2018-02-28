@@ -11,7 +11,7 @@ RxNLP's Text Mining and NLP APIs allow for quick analysis of highly messy unstru
 - [Text Similarity API](http://www.rxnlp.com/api-reference/text-similarity-api-reference/)
 - [Sentence Clustering API](http://www.rxnlp.com/sentence-clustering-api/)
 - [N-Gram and Word Counting API](http://www.rxnlp.com/api-reference/n-gram-and-word-counter-api-reference/)
-- [Opinosis Review Summarization](https://market.mashape.com/RxNLP/text-mining-and-nlp#opinosis-summaries)
+- [Opinosis Review Summarization](https://market.mashape.com/RxNLP/text-mining-and-nlp#opinosis-summaries) [[see paper](http://kavita-ganesan.com/opinosis/#.WpZEXujwY2w)]
 
 
 ## Quick Start

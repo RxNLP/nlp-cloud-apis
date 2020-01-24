@@ -15,10 +15,10 @@ RxNLP's Text Mining and NLP APIs allow for quick analysis of highly messy unstru
 
 
 ## Quick Start
-- Register for a <b>[Mashape account](http://www.mashape.com)</b> 
-- Subscribe to an [API plan](https://market.mashape.com/rxnlp/text-mining-and-nlp/pricing). 
-- Use the free plan if you have limited daily calls
-- [Get your X-Mashape Key](http://www.rxnlp.com/api-key/#xmashape) - this will be your API Key
+- Register for a <b>[RapidApi account](https://rapidapi.com/)</b> 
+- Subscribe to an [API plan](https://rapidapi.com/RxNLP/api/text-mining-and-nlp). 
+- Use the Basic plan if you have limited daily calls
+- [Get your Key](https://rapidapi.com/RxNLP/api/text-mining-and-nlp)
 - Build your API client or start with the [PyRxNLP](https://github.com/RxNLP/pyrxnlp) SDK
 
 ## Get in touch
